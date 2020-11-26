@@ -112,6 +112,7 @@ p {
 }
 
 .about-image1 {
+  background-size: cover;
   margin: 20px;
   margin-left: 60px;
   margin-top: -15px;
@@ -119,6 +120,7 @@ p {
 }
 
 .about-image2 {
+  background-size: cover;
   border-radius: 100%;
   width: 15%;
   margin: 10px;
